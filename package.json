@@ -10,7 +10,7 @@
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.2.1",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "node-sass": "^4.13.1",
     "nouislider": "14.0.2",
     "react": "16.8.6",
